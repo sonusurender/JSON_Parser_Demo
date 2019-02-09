@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "name": "Andrew",
+      "location": "India",
+      "phone": [
+        8899002211,
+        7799881122
+      ]
+    },
+    {
+      "name": "Phil",
+      "location": "Pune",
+      "phone": [
+        9900112211,
+        9881122112
+      ]
+    },
+    {
+      "name": "AndroHub",
+      "location": "Bangalore",
+      "phone": [
+        9881221122,
+        9881122333
+      ]
+    }
+  ]
+}
